@@ -32,7 +32,7 @@ The Address Generator is a simple command-line tool written in Python that allow
 
 5. The program will display the generated addresses in the terminal.
 
-6. You can modify the default parameters directly in the address_generator.py script if needed.
+6. You can modify the default parameters directly in the generator.py script if needed.
 
 Requirements
 Python 3.x
