@@ -1,16 +1,16 @@
-#Face Detection Program
+## Face Detection Program
 This is a simple Python program that uses OpenCV to perform face detection on images captured from a camera feed. It uses the Haar Cascade classifier for detecting frontal faces.
 
-#Installation
+## Installation
 Before running the program, you need to install the required libraries. You can install them using the following command: pip install opencv-python
 
-#Usage
+## Usage
 1. Clone or download this repository to your local machine.
 2. Make sure you have a camera available (built-in or external).
 3. Run the face_detection.py script using Python. "python face_detection.py"
 4. The program will open a window showing the camera feed with detected faces outlined by rectangles.
 
-#Error Explanation
+## Error Explanation
 If you encounter the following error while running the program:
 [ERROR:0@0.060] global persistence.cpp:505 cv::FileStorage::Impl::open Can't open file: 'haarcascade_frontalface_default.xml' in read mode
 Traceback (most recent call last):
